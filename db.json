@@ -1,0 +1,25 @@
+{
+  "crms": [
+    {
+      "BranchCRMID": "D97061E7-0234-411E-BD43-02941A94A9C5",
+      "BranchID": "70D16B8D-53AF-4AA5-9B80-298BF8D13963",
+      "CRMType": "F1D5AA5E-AC06-455A-BEE4-EC0A53BCCD9E",
+      "CRMCode": "081",
+      "Active": true
+    },
+    {
+      "BranchCRMID": "579070B2-11A5-4F17-887D-0984031592C3",
+      "BranchID": "606F6841-96FB-4253-99ED-BFA6744D9A2D",
+      "CRMType": "F1D5AA5E-AC06-455A-BEE4-EC0A53BCCD9E",
+      "CRMCode": "612",
+      "Active": true
+    },
+    {
+      "BranchCRMID": "8CBCFC9D-7751-4A16-96B7-0A980F4DFF1F",
+      "BranchID": "27250367-EFD8-4777-AAE2-4D4EF0D0411C",
+      "CRMType": "F1D5AA5E-AC06-455A-BEE4-EC0A53BCCD9E",
+      "CRMCode": "036",
+      "Active": true
+    }
+  ]
+}
